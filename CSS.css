@@ -1,0 +1,10 @@
+h1{
+    color: aqua;
+    text-align: center;
+    padding: 2px;
+    font-family: "DejaVu Serif";
+}
+a{
+    color: black;
+    background-color: red;
+}
